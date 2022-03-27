@@ -133,10 +133,11 @@ nav {
 .portfolio__items img {
     width: 100%;
     border: 3px solid black;
+    opacity: .5;
 }
 
 .portfolio__item-one {
-    padding: 2em;
+    padding: 2em 2em 1em 2em;
 }
  .portfolio__item-two,
  .portfolio__item-three {
@@ -147,6 +148,12 @@ nav {
      margin-left: 10px;
  }
 
+ .portfolio__item-one,
+ .portfolio__item-two,
+ .portfolio__item-three,
+  img:hover {
+      opacity: 1.0;
+  }
 
 
 
