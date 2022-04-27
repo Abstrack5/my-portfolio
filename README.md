@@ -1,5 +1,5 @@
 # My Portfolio
-My website to showcase my skills, creativity and my projects.
+My website to showcase my skills, creativity and projects.
 
 ## Link to my Portfolio
 https://abstrack5.github.io/Portfolio/
