@@ -1,8 +1,12 @@
 # My Portfolio
-My website to showcase my skills, creativity and projects.
+My website to showcase my skills, creativity and projects as a future full stack developer.
 
-## Link to my Portfolio
-https://abstrack5.github.io/Portfolio/
+## Preview
+View website [ here ](https://abstrack5.github.io/my-portfolio/)
+
+![image](https://user-images.githubusercontent.com/100798134/173870805-cce923e8-bee9-4cae-9dc6-c860250c6105.png)
+![image](https://user-images.githubusercontent.com/100798134/173870884-4c98e422-bfe9-453c-85ed-8738bfbabff3.png)
+
 
 ## Technologies
 * Html
