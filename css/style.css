@@ -182,6 +182,10 @@ header {
     height: 208px;
  }
 
+ .portfolio__item-three img {
+    height: 208px;
+ }
+
  .portfolio__item-one,
  .portfolio__item-two,
  .portfolio__item-three,
